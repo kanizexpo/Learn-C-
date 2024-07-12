@@ -1,0 +1,10 @@
+// Write a program to print your id and full name
+#include <iostream>
+using namespace std;
+int main() 
+{
+    int id= 1234;
+    string name= "Kaniz";
+    cout<<"ID: "<< id<<endl<<"Name: "<<name;
+    return 0;
+}
